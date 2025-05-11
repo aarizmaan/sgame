@@ -1,5 +1,5 @@
-node_modules/
-dist/
-.env
-.DS_Store
-*.log
+// filepath: c:\Users\vksty\OneDrive\Desktop\HTML Notes\Myproject\frontend\.gitignore
+# Remove the lines for the folders you want to include
+# For example, to include node_modules and dist, remove these lines:
+# node_modules/
+# dist/
